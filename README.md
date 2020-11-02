@@ -1,5 +1,8 @@
 # Software-Engineering-CSE307-2020
+
 Software Engineering - CSE307 - 2020 - Toros University, Mersin
+
+Discord Channel of the Course for every kind of questions and answers : https://discord.gg/6Mrb8MwteQ
 
 This repository is dedicated to the Software Engineering Course, 2020, Toros University, Software Engineering Department
 
